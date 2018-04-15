@@ -1,0 +1,3 @@
+TODO:
+    *Opracowanie scenerii animacji
+
